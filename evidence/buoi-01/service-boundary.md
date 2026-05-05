@@ -99,11 +99,11 @@ Dashboard (hiển thị dữ liệu)
 
 Có thể vẽ bằng Mermaid, draw.io, Ludichart hoặc ảnh chụp sơ đồ.
 ![alt text](image-1.png)
-
-```mermaid
+![alt text](image-3.png)
 ![alt text](image-4.png)
+```mermaid
+
 flowchart LR
     User[Actor] --> Service[Service của nhóm]
     Service --> DB[(Database)]
     Service --> Other[Service khác]
-![alt text](image-3.png)
