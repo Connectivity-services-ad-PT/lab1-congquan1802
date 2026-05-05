@@ -6,7 +6,7 @@
 - Lớp: CNTT 17-10
 - Thành viên: Trần Công Quân
 - Service nhóm phụ trách: analytics
-- Sản phẩm tổng thể của lớp:  dây dựng dịch vụ tổng hợp và phân tích dữ liệu
+- Sản phẩm tổng thể của lớp:  xây dựng dịch vụ tổng hợp và phân tích dữ liệu
 
 ## 2. Actor
 
@@ -101,9 +101,9 @@ Có thể vẽ bằng Mermaid, draw.io, Ludichart hoặc ảnh chụp sơ đồ.
 ![alt text](image-1.png)
 
 ```mermaid
-![alt text](image-2.png)
+![alt text](image-4.png)
 flowchart LR
     User[Actor] --> Service[Service của nhóm]
     Service --> DB[(Database)]
     Service --> Other[Service khác]
-![alt text](image.png)
+![alt text](image-3.png)
